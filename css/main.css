@@ -279,9 +279,11 @@ main::after {
 }
 
 .card__name {
+  margin-bottom: 0.25em;
   font-weight: 500;
   text-transform: capitalize;
   letter-spacing: 0.5px;
+  line-height: 1;
 }
 
 .card__verification {
